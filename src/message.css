@@ -1,0 +1,23 @@
+.message{
+    margin-top:10px;    
+    margin-left: 15px;
+    display: flex;
+    width: fit-content;
+    background-color: #EEEEEE;
+    padding:20px 10px;
+    border-radius:15px;
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.host_user{
+    width: fit-content;
+    margin-top:10px;
+    margin-right: 0;
+    display: flex;
+    background-color: #0288D1;
+    padding:20px 10px;
+    border-radius: 15px;
+}
